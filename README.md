@@ -2,7 +2,7 @@
 - 👀 I’m interested in digital literacy, nonprofit tech capacity building, info policy, and knowledge management
 - 🌱 I’m currently learning about the decentralized web
 - 💞️ I’m looking to collaborate on any of the above
-- 📫 How to reach me ...
+- 📫 How to reach me andi [at] hypha [dot] coop
 
 <!---
 writerly03/writerly03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
